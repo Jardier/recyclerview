@@ -1,5 +1,5 @@
 ## Udemy - Desenvolvimento Android Completo 2020
-## App - Recycleview
+## App - Recyclerview
 
 Nesse projeto iremos aprender sobre o componente de lista Recyclerview
 
